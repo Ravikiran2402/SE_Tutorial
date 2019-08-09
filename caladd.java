@@ -17,10 +17,10 @@ public class caladd
             switch(choice)
             {
                 case '1' :  System.out.print("Enter two numbers: ");
-                            // a = scan.nextFloat();
-                            // b = scan.nextFloat();
-                            // res = a+b;
-                            // System.out.print("Result = "+res);
+                            a = scan.nextFloat();
+                            b = scan.nextFloat();
+                            res = a+b;
+                            System.out.print("Result = "+res);
                             break;
                 case '2':   System.out.print("Enter two numbers: ");
                             // a = scan.nextFloat();
